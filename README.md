@@ -68,7 +68,8 @@ and the the form will dis play will click on edit
 after the forms get display will have( Pop Up message)
 
 <img width="323" height="557" alt="image" src="https://github.com/user-attachments/assets/9c6bb5ae-e013-49ab-a8ca-a23bf4cb2180" />
- in no Button will go Code :Back(); and yes 
+ in the  Button will go Code :Back(); and yes will Submit form(Form1)
+
 
 
 ---
