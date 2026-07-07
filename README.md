@@ -38,10 +38,22 @@ a) the Code of Plus icon of Adding data
 This will be get added data 
 <img width="1407" height="852" alt="image" src="https://github.com/user-attachments/assets/b005043b-a6bf-4670-89f8-89187ce83133" />
 
-b)  The source code  
+b)  The code of the First set that dislay the data by writing name By [StartsWith(Title, TextSearchBox1.Text)) ]
+
+ this will be search by name
 <img width="1352" height="777" alt="image" src="https://github.com/user-attachments/assets/a4490957-1794-481e-b171-2d1d4bfde153" />
 
-![Order Screen](Images/Order.png)
+c) Refresh the data using referesh icon
+      By Code using : Refresh([@'Coffee Bevrages']) Data
+<img width="1377" height="755" alt="image" src="https://github.com/user-attachments/assets/d075444f-6869-4276-96f3-02695c0c58a8" />
+
+ 2.Code of (Second Screen) the detail Screen Data:
+ if i click on the first screen will navigate to Detail Screen and show the data if detail screen By (Item Galerry.Selected)
+
+<img width="1221" height="717" alt="image" src="https://github.com/user-attachments/assets/5e30c9b4-5987-4cd3-af75-0ce6de54ae1a" />
+
+a) 
+
 
 ---
 
