@@ -30,21 +30,25 @@ The Coffee Order App is a business application developed using Microsoft Power A
 [SortByColumns(Filter([@'Coffee Bevrages'], StartsWith(Title, TextSearchBox1.Text)), "Title", If(SortDescending1, SortOrder.Descending, SortOrder.Ascending)) ]
 
  the data will be stored the data and display in search box
+ 
 <img width="1511" height="765" alt="image" src="https://github.com/user-attachments/assets/088292b0-78b4-4263-a2b5-bf137863d38a" />
 
 a) the Code of Plus icon of Adding data
 [NewForm(EditForm1);Navigate(EditScreen1, ScreenTransition.None)]
 
-This will be get added data 
+This will be get added data
+
 <img width="1407" height="852" alt="image" src="https://github.com/user-attachments/assets/b005043b-a6bf-4670-89f8-89187ce83133" />
 
 b)  The code of the First set that dislay the data by writing name By [StartsWith(Title, TextSearchBox1.Text)) ]
 
  this will be search by name
+ 
 <img width="1352" height="777" alt="image" src="https://github.com/user-attachments/assets/a4490957-1794-481e-b171-2d1d4bfde153" />
 
 c) Refresh the data using referesh icon
       By Code using : Refresh([@'Coffee Bevrages']) Data
+      
 <img width="1377" height="755" alt="image" src="https://github.com/user-attachments/assets/d075444f-6869-4276-96f3-02695c0c58a8" />
 
  2.Code of (Second Screen) the detail Screen Data:
@@ -52,7 +56,19 @@ c) Refresh the data using referesh icon
 
 <img width="1221" height="717" alt="image" src="https://github.com/user-attachments/assets/5e30c9b4-5987-4cd3-af75-0ce6de54ae1a" />
 
-a) 
+a) In the edit section  the edit icon will go to edit 
+the code will be  (EditForm(EditForm1);Navigate(EditScreen1, ScreenTransition.None);)
+
+<img width="1367" height="808" alt="image" src="https://github.com/user-attachments/assets/62bab81c-ccbd-46e7-9206-34308a678ca0" />
+
+and the the form will dis play will click on edit 
+
+<img width="311" height="527" alt="image" src="https://github.com/user-attachments/assets/f7bd471b-07a9-48fe-80f8-bbdb3c28590b" />
+
+after the forms get display will have( Pop Up message)
+
+<img width="323" height="557" alt="image" src="https://github.com/user-attachments/assets/9c6bb5ae-e013-49ab-a8ca-a23bf4cb2180" />
+ in no Button will go Code :Back(); and yes 
 
 
 ---
