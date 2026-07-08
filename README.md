@@ -51,6 +51,12 @@ c) Refresh the data using referesh icon
       
 <img width="1377" height="755" alt="image" src="https://github.com/user-attachments/assets/d075444f-6869-4276-96f3-02695c0c58a8" />
 
+ d) Short up data by Accending and Decending order
+ Code:UpdateContext({SortDescending1: !SortDescending1})
+
+<img width="1372" height="807" alt="image" src="https://github.com/user-attachments/assets/869e51c1-4166-4831-80d5-2a5f39420c83" />
+
+ 
  2.Code of (Second Screen) the detail Screen Data:
  if i click on the first screen will navigate to Detail Screen and show the data if detail screen By (Item Galerry.Selected)
 
@@ -61,18 +67,30 @@ the code will be  (EditForm(EditForm1);Navigate(EditScreen1, ScreenTransition.No
 
 <img width="1367" height="808" alt="image" src="https://github.com/user-attachments/assets/62bab81c-ccbd-46e7-9206-34308a678ca0" />
 
-and the the form will dis play will click on edit 
+and the the form will display will click on edit 
 
 <img width="311" height="527" alt="image" src="https://github.com/user-attachments/assets/f7bd471b-07a9-48fe-80f8-bbdb3c28590b" />
 
 after the forms get display will have( Pop Up message)
 
 <img width="323" height="557" alt="image" src="https://github.com/user-attachments/assets/9c6bb5ae-e013-49ab-a8ca-a23bf4cb2180" />
- in the  Button will go Code :Back(); and yes will Submit form(Form1)
 
 
 
----
+       in this  Button will this Code :Back(); and yes button will Submit form(Form1)
+
+ b) in the delete section the data get deleted when bin button get click 
+
+ <img width="1096" height="808" alt="image" src="https://github.com/user-attachments/assets/22ab1b77-93f5-4306-b5fa-7c57ce2adb00" />
+
+  and this pop up message will  come over the data
+
+  the code of no will tun Code: Back(); in no Button and Yes button Code : Remove([@'Coffee Bevrages'], BrowseGallery1.Selected); If (IsEmpty(Errors([@'Coffee Bevrages'], BrowseGallery1.Selected)), Back());
+  
+ <img width="1835" height="743" alt="image" src="https://github.com/user-attachments/assets/6d4db419-5352-4cbc-8423-a253142b36c2" />
+
+ 
+ ---
 
 ## 🎥 Demo Video
 
