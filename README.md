@@ -35,7 +35,7 @@ The Coffee Order App is a business application developed using Microsoft Power A
 <img width="1511" height="765" alt="image" src="https://github.com/user-attachments/assets/088292b0-78b4-4263-a2b5-bf137863d38a" />
 
 a) the Code of Plus icon of Adding data
-[NewForm(EditForm1);Navigate(EditScreen1, ScreenTransition.None)]
+[NewForm(EditForm1);Navigate(EditScreen1, ScreenTransition.None)] 
 
 This will be get added data
 
