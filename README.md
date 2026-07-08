@@ -96,7 +96,8 @@ after the forms get display will have( Pop Up message)
 
 You can watch the application demo below.
 
-https://github.com/YourUsername/Coffee-Order-App/blob/main/Videos/Coffee_Order_Demo.mp4
+C:\Users\Jayshree\Downloads\Jayshree Tapase\images\Project.mp4
+
 
 ---
 
@@ -120,8 +121,4 @@ This project was developed to demonstrate practical experience with Microsoft Po
 
 **Jayshree Tapase**
 
-Microsoft Power Platform Developer
-
-GitHub: https://github.com/YourUsername
-
-LinkedIn: Your LinkedIn Profile
+LinkedIn:[ Your LinkedIn Profile](https://www.linkedin.com/in/jayshree-tapase-488534326/)
