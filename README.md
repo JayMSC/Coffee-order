@@ -91,7 +91,6 @@ after the forms get display will have( Pop Up message)
  <img width="1835" height="743" alt="image" src="https://github.com/user-attachments/assets/6d4db419-5352-4cbc-8423-a253142b36c2" />
 
  
- ---
 
 ## 🎥 Demo Video
 
@@ -101,17 +100,6 @@ You can watch the application demo below.
 )
 
 
----
-
-## ⚙️ How to Use
-
-1. Open the Power Apps application.
-2. Select your preferred coffee.
-3. Enter customer details.
-4. Place the order.
-5. View order confirmation.
-
----
 
 ## 🎯 Purpose
 
